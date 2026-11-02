@@ -16,3 +16,5 @@ Generated outputs include:
 - `scenario_comparison.png`: comparison plots.
 
 This repository currently provides the code; input and result files are generated when the script is run. Solver runtimes and time-limited MILP results may vary with the MATLAB version and computing environment.
+
+Authors have used MATLAB 2024a version.
